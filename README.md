@@ -1,3 +1,8 @@
+
+# Hello Backend API
+
+Simple REST API built with Java and Spring Boot.
+
 ### 🚀 Endpoints
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
