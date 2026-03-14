@@ -1,10 +1,9 @@
-# Hello-backend API
+# Hello Backend API
 
-Simple REST API built with Java and Spring Boot
+Simple REST API built with Java and Spring Boot.
 
-## Endpoint
+## Endpoints
 
-GET /hello
-
-Response:
-Hello Backend
+GET /api/hello  
+GET /api/info  
+GET /api/status
